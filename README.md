@@ -1,2 +1,2 @@
 # JavaStudy
-<strong>자바의 정석 3판 공부 내용을 올립니다.</strong>
+<strong>자바의 정석 3판 예제, 연습문제 정리</strong>
