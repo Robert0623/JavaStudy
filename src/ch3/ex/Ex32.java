@@ -1,4 +1,4 @@
-package ch3;
+package ch3.ex;
 
 public class Ex32 {
     public static void main(String[] args) {
