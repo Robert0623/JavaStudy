@@ -1,6 +1,6 @@
 package ch7.ex;
 
-public class Test29 {
+public class Ex29 {
     public static void main(String[] args) {
         A a = new A();
         a.methodA();

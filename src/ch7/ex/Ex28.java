@@ -1,6 +1,6 @@
 //package ch7.ex;
 //
-//public class Test28 {
+//public class Ex28 {
 //    public static void main(String[] args) {
 //        A a = new A();
 //        a.autoPlay(new B());
